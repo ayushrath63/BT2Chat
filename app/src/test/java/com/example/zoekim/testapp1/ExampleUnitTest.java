@@ -1,4 +1,4 @@
-package bt2chat.csm117.bt2chat;
+package com.example.zoekim.testapp1;
 
 import org.junit.Test;
 

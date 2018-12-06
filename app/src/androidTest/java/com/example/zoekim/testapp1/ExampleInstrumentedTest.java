@@ -1,4 +1,4 @@
-package bt2chat.csm117.bt2chat;
+package com.example.zoekim.testapp1;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("bt2chat.csm117.bt2chat", appContext.getPackageName());
+        assertEquals("com.example.zoekim.testapp1", appContext.getPackageName());
     }
 }
